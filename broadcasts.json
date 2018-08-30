@@ -18,19 +18,19 @@
   },
   {
     "id": "forums",
-    "message": "\n&7Make sure to join our &d/forums\n "
+    "message": "\n&7Check out our forums to socialize with the community! &dhttps://warzone.network\n "
   },
   {
     "id": "report",
-    "message": "\n&7See someone breaking the rules? Report them on our &b/forums\n "
+    "message": "\n&7See someone breaking the rules? Report them on our forums! &bhttps://warzone.network\n "
   },
   {
     "id": "github",
-    "message": "\n&7Want to help make the server? Check out our &e/github\n "
+    "message": "\n&7Want to help make the server? Check out our github! &ehttps://github.com/WarzoneMC\n "
   },
   {
     "id": "mapmaking",
-    "message": "\n&7Interested in making a map for Warzone? Join our &d/forums\n "
+    "message": "\n&7Interested in making a map for Warzone? Try checking out our forums! &dhttps://warzone.network\n "
   },
   {
     "id": "welcome",
